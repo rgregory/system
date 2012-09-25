@@ -1,0 +1,2 @@
+tmpfs /tmp  tmpfs size=1024M,noatime,nodiratime 1 2
+
